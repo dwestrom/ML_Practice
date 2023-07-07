@@ -14,3 +14,8 @@ The most impactful metric for med-priced restraurants is clearly how frequently 
 Another important factor is who is in the car with you. Kids have a strong negative impact, traveling with your partner has a positive one.
 
 Send time was also important, favoring sends during the day. Morning and late night send were less likely to be accepted.
+
+Here are some plots I generated to demonstrate:
+
+<img src=Assignment%205.1/images/Rate%20x%20Freqency.png width="30%" height="30%"><img src=Assignment%205.1/images/Rate%20x%20Passenger.png width="30%" height="30%"><img src=Assignment%205.1/images/Rate%20x%20SendTime.png width="30%" height="30%">
+
